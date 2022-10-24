@@ -1,5 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annguyen011197&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=annguyen011197&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats&theme=algolia&show_icons=true)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/annguyen011197?cardType=github&theme=city-lights&showIcons=false)](https://git.io/awesome-stats-card)
 
 
